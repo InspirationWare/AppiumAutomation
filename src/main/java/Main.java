@@ -16,6 +16,8 @@ public class Main {
 		driver.findElementByXPath(calcElements.getPlusXpath()).click();
 		driver.findElementByXPath(calcElements.getTwoXpath()).click();
 		driver.findElementByXPath(calcElements.getEqualsXpath()).click();
+		
+		driver.quit();
 	}
 	
 
