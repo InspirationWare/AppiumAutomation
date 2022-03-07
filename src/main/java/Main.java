@@ -1,4 +1,4 @@
-package com.techbeetraining.EbayAppTest;
+package com.techbeetraining.CalculatorAppTest;
 
 import io.appium.java_client.android.AndroidDriver;
 import io.appium.java_client.android.AndroidElement;

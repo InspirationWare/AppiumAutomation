@@ -1,4 +1,4 @@
-package com.techbeetraining.EbayAppTest;
+package com.techbeetraining.CalculatorAppTest;
 
 import java.net.MalformedURLException;
 import java.net.URL;
